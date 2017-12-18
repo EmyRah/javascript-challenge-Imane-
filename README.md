@@ -32,9 +32,8 @@ the `data` directory; you can access it at `/data/<filename>.json`.
 
 ### Questions
 
-if you have any questions feel free to contact, niels@tamethat.com
+if you have any questions feel free to contact, stephan@joboti.com
 
 ### Completed?
 
-Create a repo and send your solution to me, @bytewiz or niels@tamethat.com
-would love to review it!
+Create a repo and send your solution to me :)
